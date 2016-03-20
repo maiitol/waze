@@ -14,7 +14,7 @@
                 <param name="android-package" value="cr.encke.WazeLink.WazeLink" /> 
             </feature>
         </config-file>
-		<source-file src="src/android/WazeLink.java"
+		<source-file src="src/android/cr/encke/WazeLink/WazeLink.java"
                 target-dir="src/cr/encke/WazeLink" />
     </platform>
     

@@ -5,7 +5,7 @@
         
         {
             waze : function( url )	{
-		          codova.exec( null, null, "WazeLink", "execute", [url] );
+		          cordova.exec( null, null, "WazeLink", "execute", [url] );
             }
 	
         }
